@@ -6,7 +6,7 @@ import scipy.misc as sc
 from PIL import Image
 
 np.set_printoptions(threshold=np.nan)
-imagepath = "./STM_pep.png"
+imagepath = "./images/wedding.png"
 
 kernel = kernel.Kernel(2)
 scalar = 32
